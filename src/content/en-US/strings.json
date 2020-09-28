@@ -57,6 +57,7 @@
         "shipSectionLabel": "Shipping Info",
         "firstNameLabel": "First Name",
         "lastNameLabel": "Last Name",
+        "shipSectionLabel": "My Info",
         "coordinatesLabel": "Coordinates",
         "coordinatesHolder": "0,0,0",
         "sectorLabel": "Sector/Quadrant",
