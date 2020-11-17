@@ -1,7 +1,7 @@
 {
     "title": {
     "1": "3P0 Ambassadeur",
-    "2":"Droïde DUM",
+    "2":"Droïde de la serie DUM",
     "3": "2-1B Droïde chirurgical",
     "4": "IG-88B Droïde",
     "5": "Sphyrna Corvette",
@@ -54,7 +54,7 @@
     "vehicleTitle": "Tous les véhicules"
     },
     "Checkout": {
-    "checkoutTitle": "Caisse",
+    "checkoutTitle":"Paiements",
     "shipSectionLabel": "Informations sur l'expédition",
     "firstNameLabel": "Prénom",
     "lastNameLabel": "Nom",
