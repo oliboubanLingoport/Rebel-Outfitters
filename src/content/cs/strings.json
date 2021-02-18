@@ -1,0 +1,133 @@
+{
+  "Bottombar": {
+    "menuAlt": "otevřít nabídku postranního panelu"
+  },
+  "Browse": {
+    "droidTitle": "Všichni droidi",
+    "vehicleTitle": "Všechna vozidla"
+  },
+  "Cart": {
+    "cartTitle": "Nákupní košík",
+    "checkoutLabel": "PŘEKONTROLOVAT",
+    "closeAlt": "Zavřít košík",
+    "deleteAlt": "Odstranit položku z košíku",
+    "noItemMsg": "Žádné položky v košíku.",
+    "totalTitle": "Celkem: "
+  },
+  "Checkout": {
+    "accountHolder": "1234567-9876-00 pouzdro pro tablety",
+    "accountLabel": "Číslo císařského kreditu",
+    "cartTitle": "Nákupní košík",
+    "checkoutTitle": "Pokladna",
+    "coordinatesHolder": "0,0,0",
+    "coordinatesLabel": "Souřadnice",
+    "deleteAlt": "odebrat položku z košíku",
+    "expDateLabel": "Datum vypršení platnosti",
+    "firstNameLabel": "Křestní jméno",
+    "lastNameLabel": "Příjmení",
+    "methodLabel": "Způsob přepravy",
+    "noItemMessage": "Přidat položky do košíku k pokladně.",
+    "orderLabel": "OBJEDNAT",
+    "payNameHolder": "První poslední",
+    "payNameLabel": "Jméno na kartě",
+    "paySectionLabel": "Platba",
+    "sectorLabel": "Sektor",
+    "securityHolder": "123456",
+    "securityLabel": "Bezpečnostní kód",
+    "shipLightspeed": "Rychlost světla",
+    "shipOvernight": "Přes noc",
+    "shipSectionLabel": "Informace o přepravě",
+    "shipStandard": "Standardní",
+    "successMessage": "Objednávka byla úspěšně zadána!",
+    "termsLink": "(Pohled)",
+    "termsStatement": "Přečetl jsem si a souhlasím se smluvními podmínkami",
+    "totalLabel": "Celkem: "
+  },
+  "Error404": {
+    "errorMessage": "404 Chyba: Stránka nebyla nalezena."
+  },
+  "Hamburger": {
+    "contactLabel": "Kontaktujte nás",
+    "dashLabel": "Zobrazit řídicí panel Lingoport",
+    "githubLabel": "Zobrazit zdroj",
+    "githubLogoAlt": "Logo GitHub",
+    "learnLabel": "Dozvědět se více",
+    "lingoLogoAlt": "Logo Lingoport",
+    "localeEN": "Czech - Česká republika",
+    "localeEO": "esperanto",
+    "localeFR": "Francouzština - Francie",
+    "localeLabel": "Národní prostředí: ",
+    "localeSI": "Sith",
+    "localeYO": "Yoda",
+    "localeZH": "Čínština - Čína",
+    "versionBad": "Nekompatibilní s I18N",
+    "versionGood": "Kompatibilní s I18n",
+    "versionIQA": "InContext",
+    "versionLabel": "Verze: "
+  },
+  "Home": {
+    "symbolAlt": "Symbol Imperial Credit",
+    "welcomeMessage": "Vítejte v Rebel Outfitters!",
+    "welcomeSubtitle": "Poskytujeme vše, co potřebujete k tomu, abyste se dostali na Impérium (a vyhrát)."
+  },
+  "Navbar": {
+    "arrowAlt": "Šípka dolů",
+    "cartAlt": "Zobrazit košík",
+    "greetingText": "Ahoj Hane.",
+    "historyLink": "HISTORIE OBJEDNÁVEK",
+    "logoAlt": "Logo Rebel Outfitters",
+    "navLinkDroids": "DROIDI",
+    "navLinkHome": "DOMŮ",
+    "navLinkVehicles": "VOZIDEL",
+    "searchButtonLabel": "vyhledávat produkty",
+    "searchIconAlt": "ikona hledání",
+    "searchPlaceholder": "Co hledáš?"
+  },
+  "OrderHistory": {
+    "dateHeading": "Datum",
+    "historyTitle": "Historie objednávek",
+    "numberHeading": "Číslo objednávky",
+    "statusHeading": "Stav",
+    "totalHeading": "Celkem"
+  },
+  "Order": {
+    "statusDelivered": "Doručeno",
+    "statusProcessing": "Zpracování",
+    "statusShipped": "Dodáno"
+  },
+  "ProductShow": {
+    "addToCartLabel": "PŘIDAT DO KOŠÍKU",
+    "qtyLabel": "Množíčko: "
+  },
+  "Special": "Speciální",
+  "desc": {
+    "1": "Každý droid je vybaven SyntheTech AA-1 VerbOrain, což je schopen ukládat obrovské množství informací, dodatečný paměťový prostor se často používá k udržení komunikačních modulů v aktivní paměti tak, aby se zabránilo dlouhým zpožděním při hledání jazykových informací o střední překlad. Komunikační modul TranLang III jim umožňuje plynule používat více než šest milionů forem komunikace. Mají také dovednosti potřebné pro rychlou analýzu nových neregistrovaných jazyků a jejich překládání do více známých jazyků.",
+    "10": "Astromech droid řady R3 má velkou část stejného hardwaru jako jeho předchůdce, jednotka R2, která postrádá pouze rozšířitelný video senzor dřívějšího droida. Podvozek R3 je z velké části válcovitý a objevuje se jako vzpřímená trubka s krátkým, zkráceným kuželem na jeho základně. Udržování droida ve vzpřímené poloze jsou dvě úzké nohy, z nichž každá končí v šlapané noze ve tvaru lichoběžníkových hranolů, třetí noha je umístěna v těle droida a může být prodloužena v případě potřeby, aby si mohla dovolit větší stabilitu. Upevnění konstrukce jednotky je odolná, rotující, plastex nebo průhledná kopule. Astromech je utěsněn, aby umožnil funkčnost ve vakuu prostoru.",
+    "11": "Starfighter T-70 X-wing je křížový hvězdný stíhač o délce 12,48 metrů s maximální kapacitou jednoho pilota a astromecha droida, který se vejde do zásuvky a může být variabilně konfigurován pro různé modely. V případě potřeby může droid létat se stíhačkou bez pomoci pilota a může to udělat i na dálku. Zaměřující počítač plavidla, letové ovládání a další základní pilotní přístroje jsou umístěny uvnitř obrněného modulu kokpitu, pod nímž odnímatelný kapalinou chlazený letový počítač dále napomáhá pilotovi při lodním provozu. Přístupové panely pro přístup k počítači a skladování existují uvnitř „nosu“ plavidla spolu s pomocným generátorem a úložným prostorem, který se obvykle používá pro ukrytí zařízení pro přežití. Malé okno snímače označuje umístění primárního senzorového pole lodí na samém konci nosecone, umístěného za nouzovým majákem. Za pilotem umožňuje vestavěný systém podpory života cestujícím dýchat okysličenou atmosféru.",
+    "12": "Hvězdný stíhač Y-wing je láskyplně známý jako „touha“ pro piloty Rebel Alliance a Nové Republiky, je nasazen jako stíhací bombardér, navržený tak, aby probojoval svůj cíl, dodal náklad vysokých výbušnin a znovu se probojoval. Jeho výzbroj obsahuje dva laserové děla, dva iontové děla a dva protonové torpédomety. Astromech droid, jako je jednotka R2, může být zapojen do zásuvky za kokpitu, aby mohl působit jako kopilot a řídit různé systémy lodi.",
+    "13": "Docela dobrý droid na koordinaci útoků. Není dobrý v boji, jen dobrý v plánování.",
+    "2": "Určeno pro údržbu podracers, pitdroidy jsou cenově dostupné, odolné opravné droidy. Pitdroidi stojí ve výšce 1,19 metru, ale mají schopnost sklopit do kompaktní formy, když se nepoužívají. Tuto funkci lze přepnout klepnutím na jejich nos.",
+    "3": "Model droidů 2-1B je vysoce pokročilý a inteligentní, protože jeho programování je dále pokročilé některými z nejlepších lékařů v galaxii na Rhinnal State Medical Academy, které také integrují heuristické procesory. Nejužitečnější charakteristikou droidů 2-1B je snadnost, s jakou mohou majitelé aktualizovat své programování a přílohy. 2-1B droid se může snadno stát specialistou na neurochirurgii, pediatrii, pediatrii, kybernetickou náhradu končetin a mimozemskou biologii s výletem do certifikovaného servisního střediska.",
+    "4": "Zbitý chromový válečný droid, IG-88 stojí 1,96 metru na výšku. Jeho stálý cíl, spolu s jeho schopností sledovat cíle pomocí pokročilých senzorů, které zazvoní hlavou a umožňují mu vidět ve všech směrech, mu vydělává velký úspěch. Tyto senzory zahrnují více červených fotoreceptorů, tepelný senzor a zvukový senzor IG-88 má také vocoder na spodní straně hlavy. Jeho trup se může plně otáčet na bojišti, což mu umožňuje střílet nepřátele ze všech stran. Jeho tvrdé kovové tělo mu umožňuje přežít většinu útoků, aniž by došlo k poškození a má odolné proti kyselinám servo dráty.",
+    "5": "Do původní konstrukce Sphyrna bylo přidáno několik nových funkcí, včetně dvou doplňkových modulů namontovaných do přístavu a pravoboku plavidla, šesti únikových modulů místo nákladového prostoru a čtvrtého podsvětelného pohonu namontovaného na horní části primární trojky, což mu dává dostatek energie k tomu, aby mohl bez pomoci přesunout zdravotně postižené Hvězdný torpédoborec. Délka 315 metrů s maximálním zrychlením 900 kilometrů za hodinu. Vybaven systémem hyper pohonu.",
+    "6": "Opravný droid druhého stupně G2 je určen k pomoci při opravách lodí, je krátký vzrůst a stojí 0,8 metru na výšku. Je to také squat, se širokým, spodním těžkým postojem, který ho nutí kolébat, když chodil. Tyto vlastnosti, v kombinaci s dlouhým, vícenásobně spojovaným krkem a široce rozloženými nohami rozkládající váhu, získávají přezdívku „husí droid“. Každá jednotka G2 má odizolovaný, stříbrný a mosazný kosterní rám s exponovanými klouby a kabeláží, s barevným lemem. Trojmístné těžké manipulátory droida dokáží uchopit většinu opravárenských nástrojů, zatímco roztažené nohy pomáhají stabilizovat jeho nízké těžiště a dodají G2 extra stabilitu při práci s velkými těžkými zařízeními.",
+    "7": "Při měření délky 150 metrů je vybaven dvěma dvěma a čtyřmi samostatnými turbolaserovými věžičkami a má schopnost dosáhnout maximální rychlosti 950 km/h. Podle Luka Skywalkera mohou být některé bojově vybavené lodě CR90 vybaveny šesti dvojitými turbolasery. Schopný nést celý diplomatický doprovod, má kapacitu cestujících ve stovkách. Přestože lodě nejsou postaveny jako nosiče, mohou být k dokovacím kroužkům připevněny tři stíhače RZ-1 A-křídla, což umožňuje malý doprovod. Slouží jako páteř rané povstání a Aliance. I když nejsou příliš silně vyzbrojené, mají CR 90 dostatečnou palebnou sílu, aby zničily křižník třídy Gozanti-třídy docela snadno.",
+    "8": "74-Z Speeder Bike je schopen dosáhnout rychlosti až pět set kilometrů za hodinu a má letový strop dvacet pět metrů. 74-Zs jsou vojenskou variantou civilního 74-Y. Jsou ovládány řídítky umístěnými směrem k přední části vozidla a nožní pedály zavěšené pod nastavují rychlost a nadmořskou výšku. Vysoce manévrovatelná vozidla jsou vybavena senzorovými a komunikačními zařízeními umístěnými mezi řídítky, včetně komlink a zařízení pro rušení komlinků. Speeder je vybaven terénními snímači, které spojují s HUD v helmě řidiče. Jsou vyzbrojeni dopředu rotujícím blasterovým kanónem pro boj.",
+    "9": "ETA-2 je vysoce manévrovatelný bojově orientovaný stíhač a je rychlejší než jeho předchůdce Aethersprite, s dvojitými iontovými motory zajišťujícími maximální zrychlení 5,200G a maximální rychlost 1 500 km/h. Eta-2 má křídla s horními a dolními radiátorovými panely, S-fóliemi, které jsou otevřeny, aby uvolňovaly přebytečné teplo z lodních motorů. Křídla chladiče jsou primárně otevřena během intenzivního boje. Pro obranu loď obsahovala dvě laserová děla a dva iontové děla. Na rozdíl od laserových děl, iontová děla lodi střílí výbuchy plazmy, které způsobují dočasné elektrické přerušení jejich cíle při nárazu."
+  },
+  "title": {
+    "1": "3P0 velvyslanec",
+    "10": "Droid řady R3",
+    "11": "T-70 X-křídlo",
+    "12": "Bojovník Y-",
+    "13": "Super taktický droid",
+    "2": "Droid série DUMS",
+    "3": "2-1B chirurgický Droid",
+    "4": "IG-88B Droid",
+    "5": "Sphyrna korveta",
+    "6": "G2 Repair Droid",
+    "7": "Korveta CR90",
+    "8": "74-Z Speeder Bike",
+    "9": "ETA-2 Interceptor"
+  }
+}
