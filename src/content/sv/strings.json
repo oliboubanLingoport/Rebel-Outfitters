@@ -1,0 +1,133 @@
+{
+  "Bottombar": {
+    "menuAlt": "öppna sidofältsmenyn"
+  },
+  "Browse": {
+    "droidTitle": "Alla droider",
+    "vehicleTitle": "Alla fordon"
+  },
+  "Cart": {
+    "cartTitle": "Varukorg",
+    "checkoutLabel": "CHECKA UT",
+    "closeAlt": "Stäng kundvagn",
+    "deleteAlt": "Ta bort artikel från varukorgen",
+    "noItemMsg": "Inga artiklar i varukorgen.",
+    "totalTitle": "Totalt: "
+  },
+  "Checkout": {
+    "accountHolder": "1234567-9876-00",
+    "accountLabel": "Imperial kreditnummer",
+    "cartTitle": "Varukorg",
+    "checkoutTitle": "Kassan",
+    "coordinatesHolder": "0,0,0",
+    "coordinatesLabel": "koordinater",
+    "deleteAlt": "ta bort objekt från varukorgen",
+    "expDateLabel": "Utgångsdatum",
+    "firstNameLabel": "Förnamn",
+    "lastNameLabel": "Efternamn",
+    "methodLabel": "Leveransmetod",
+    "noItemMessage": "Lägg till artiklar i varukorgen i kassan.",
+    "orderLabel": "PLACERA BESTÄLLNINGEN",
+    "payNameHolder": "Första Sista",
+    "payNameLabel": "Namn på kort",
+    "paySectionLabel": "Betalning",
+    "sectorLabel": "Sektor",
+    "securityHolder": "123456",
+    "securityLabel": "Säkerhetskod",
+    "shipLightspeed": "Ljushastighet",
+    "shipOvernight": "Övernattning",
+    "shipSectionLabel": "Leverans Info",
+    "shipStandard": "Standard",
+    "successMessage": "Beställning med framgång!",
+    "termsLink": "(Visa)",
+    "termsStatement": "Jag har läst och godkänner villkoren",
+    "totalLabel": "Totalt: "
+  },
+  "Error404": {
+    "errorMessage": "404 Fel: Sidan hittades inte."
+  },
+  "Hamburger": {
+    "contactLabel": "Kontakta oss",
+    "dashLabel": "Visa Lingoport instrumentpanel",
+    "githubLabel": "Visa källa",
+    "githubLogoAlt": "GitHub Logo",
+    "learnLabel": "Lär dig mer",
+    "lingoLogoAlt": "Lingoport logotyp",
+    "localeEN": "Engelska - Sverige",
+    "localeEO": "Esperanto",
+    "localeFR": "Franska - Frankrike",
+    "localeLabel": "Språkinställning: ",
+    "localeSI": "Sith",
+    "localeYO": "Yoda",
+    "localeZH": "Kinesiska - Kina",
+    "versionBad": "Icke-I18N-kompatibel",
+    "versionGood": "i18n-kompatibel",
+    "versionIQA": "InContext",
+    "versionLabel": "Version: "
+  },
+  "Home": {
+    "symbolAlt": "Imperial Credit Valuta",
+    "welcomeMessage": "Välkommen till Rebel Outfitters!",
+    "welcomeSubtitle": "Vi erbjuder allt du behöver för att ta dig an Empire (och vinna)."
+  },
+  "Navbar": {
+    "arrowAlt": "Nedåtpil",
+    "cartAlt": "visa varukorg",
+    "greetingText": "Hej Han",
+    "historyLink": "ORDNING",
+    "logoAlt": "Rebel Outfitters logotyp",
+    "navLinkDroids": "ROBOTAR",
+    "navLinkHome": "HEM",
+    "navLinkVehicles": "FORDON",
+    "searchButtonLabel": "Sök produkter",
+    "searchIconAlt": "sökikonen",
+    "searchPlaceholder": "Vad letar du efter?"
+  },
+  "OrderHistory": {
+    "dateHeading": "Datum",
+    "historyTitle": "Orderhistorik",
+    "numberHeading": "Beställningsnummer",
+    "statusHeading": "Status",
+    "totalHeading": "Totalt"
+  },
+  "Order": {
+    "statusDelivered": "Levereras",
+    "statusProcessing": "Processing",
+    "statusShipped": "Skickas"
+  },
+  "ProductShow": {
+    "addToCartLabel": "LÄGG TILL I VARUKORGEN",
+    "qtyLabel": "Antal: "
+  },
+  "Special": "Special",
+  "desc": {
+    "1": "Varje droid är utrustad med en SyntHETech AA-1 VerboBrain vilket gör dem kapabla att lagra enorma mängder information, det extra minnesutrymmet används ofta för att hålla kommunikationsmoduler i det aktiva minnet så att långa förseningar kan undvikas när du söker efter språklig information på mitten av översättning. En TranLang III-kommunikationsmodul gör det möjligt för dem att vara flytande i över sex miljoner kommunikationsformer. De har också de färdigheter som krävs för att snabbt analysera nya oregistrerade språk och översätta dem till mer kända språk.",
+    "10": "R3-serien astromech droid har mycket av samma hårdvara som sin föregångare, R2-enheten, saknar bara den tidigare droidens förlängbara videosensor. R3:s chassi är i stort sett cylindriskt och framträder som ett upprätt rör med en kort, stympad kon vid basen. Att hålla droiden upprätt är två smala ben, som var och en slutar i en trampad fot formad som trapetsformade prismor, ett tredje ben är inrymt i droidkroppen och kan vid behov förlängas för att ge större stabilitet. Att kapa enhetens design är en härdig, roterande, plastex eller transparisteel kupol. Astromechen är förseglad för att möjliggöra funktionalitet i rymdens vakuum.",
+    "11": "T-70 X-wing Starfighter är en korsformad starfighter som mäter 12,48 meter lång med en maximal kapacitet på en enda pilot och bottenbelastad astromech droid, som passar in i ett uttag och kan konfigureras på olika sätt för olika modeller. Om det behövs kan droiden flyga starfighter utan hjälp av en pilot, och kan till och med göra det på distans. Fartygets mätdator, flygkontroller och andra väsentliga lotsinstrument är placerade inuti en bepansrad cockpitmodul, under vilken en löstagbar vätskekyld flygdator ytterligare hjälper piloten i fartygsbaserad verksamhet. Det finns åtkomstpaneler för datoråtkomst och lagring inuti fartygets ”näsa”, tillsammans med en hjälpgenerator och ett förvaringsutrymme som normalt används för förvaring av överlevnadsutrustning. Ett litet sensorfönster markerar platsen för fartygets primära sensorsystem vid spetsen av nosecone, som ligger bakom en nödsignal. Bakom piloten, ett inbyggt livsuppehållande system gör att passageraren kan andas i en syresatt atmosfär.",
+    "12": "Y-flygeln är känd som en ”önskeben” till Rebel Alliance och New Republic piloter, och är utplacerad som en stridsbombare, utformad för att kämpa sig fram till sitt mål, leverera sin nyttolast av höga sprängämnen och kämpa sig ut igen. Dess vapen omfattar två laserkanoner, två jonkanoner och två protontorpedkastare. En astromech droid, som en R2-enhet, kan anslutas till ett uttag bakom cockpit för att fungera som andrepilot och hantera fartygets olika system.",
+    "13": "En ganska bra droid för att samordna attacker. Inte bra på att slåss, bara bra på planering.",
+    "2": "Designad för att upprätthålla podracers, gropdroider är prisvärda, hållbara reparationsdroider. Gropdroider står på en höjd av 1,19 meter men kan fällas till en kompakt form när de inte används. Den här funktionen kan ställas in genom att knacka på näsan.",
+    "3": "2-1B droid modellen är mycket avancerad och intelligent med sin programmering som vidareutvecklas av några av galaxens främsta läkare på Rhinnal State Medical Academy, som också integrerar heuristiska processorer. Den mest användbara egenskapen hos 2-1B-droiderna är den lätthet med vilken ägarna kan uppdatera sin programmering och bilagor. En 2-1B droid kan lätt bli specialist på neurokirurgi, podiatri, pediatrik, cybernetisk lemersättning och utomjordisk biologi med en resa till ett certifierat servicecenter.",
+    "4": "En misshandlad krom krigsdroid, IG-88 står 1,96 meter i höjd. Hans stadiga mål, tillsammans med hans förmåga att spåra mål med avancerade sensorer som ringer på huvudet och låter honom se i alla riktningar, ger honom stor framgång. Dessa sensorer inkluderar flera röda fotoreceptorer, en värmesensor, och en ljudsensor IG-88 har också en vocoder vid basen av huvudet. Hans torso kan rotera helt på slagfältet, så att han kan spränga fiender på alla sidor. Hans tuffa metallkropp gör det möjligt för honom att överleva de flesta attacker utan att ta några skador och har syrafasta servokablar.",
+    "5": "Flera nya funktioner har lagts till den ursprungliga Sphyrna-strukturen, inklusive två extra moduler monterade på hamnen och styrbord av farkosten, sex flyktkapslar i stället för lastutrymmet, och en fjärde sublight enhet monterad ovanpå de primära tre, vilket ger det tillräckligt med ström för att på egen hand flytta en handikappad Star Destroyer. 315 meter lång med en maximal acceleration på 900 kilometer i timmen. Utrustad med ett hyper drivsystem.",
+    "6": "Avsedd att hjälpa till med reparationer ombord, är den andra gradens G2-reparationsdroiden kort i storlek och står 0,8 meter i höjd. Det är också squat, med en bred, bottentung hållning som tvingar den att vaddla när den gick. Dessa egenskaper, i kombination med sin långa, flerfogade hals och brett åtskilda, viktfördelande fötter, tjänar det smeknamnet ”gås droid”. Varje G2-enhet har en avskalad, silver- och mässingsfärgad skelettram med exponerade fogar och ledningar, med en färgad trim. Droidens tresiffriga tunga manipulatorer kan förstå de flesta reparationsverktyg, medan splayed fötter bidrog till att stabilisera sin låga tyngdpunkt och ger G2 extra stabilitet när det handlar om stor, tung utrustning.",
+    "7": "Den mäter 150 meter i längd, har två dubbla och fyra enda turbolasertorn, och har förmågan att nå en maximal hastighet på 950 kph. Enligt Luke Skywalker kan vissa stridsutrustade CR90-fartyg utrustas med sex dubbla turbolasrar. Kapabel att bära en hel diplomatisk eskort, den har en passagerarkapacitet i hundratals. Även om fartygen inte är byggda som bärare, kan tre RZ-1 A-wing interceptorer fästas på dockningsringarna, vilket möjliggör en liten eskort. De tjänar som ryggraden i det tidiga upproret och Alliansen. Även om CR90 inte är särskilt tungt beväpnad, har tillräckligt med framåtgående eldkraft för att förstöra en Gozanti-klass cruiser ganska lätt.",
+    "8": "74-Z Speeder Bike är kapabel att nå hastigheter upp till och över fem hundra kilometer i timmen, och har ett flygtak på tjugofem meter. 74-Zs är den militära varianten av den civila 74-Y. De styrs av styret som sitter framför fordonet och fotpedalerna nedslängda under justerar hastighet och höjd. De mycket manövrerbara fordonen är utrustade med sensor- och kommunikationsanordningar placerade mellan styret, inklusive en komlänk och en komlink-störning. Speeder är utrustad med terränggående sensorer som kopplar ihop med HUD i förarens hjälm. De är beväpnade med en framåtgående roterande blaster kanon för strid.",
+    "9": "ETA-2 har en längd på 5,47 meter och är en mycket manövrerbar stridsorienterad starfighter och är snabbare än sin föregångare med dubbla jonmotorer som ger en maximal acceleration på 5 200 G och en maxhastighet på 1 500 kph. Eta-2 har vingar med övre och nedre radiatorpaneler, S-folier, som öppnas för att kasta överskottsvärme från fartygets motorer. Radiatorvingarna öppnas primärt under intensiv strid. För försvar, skeppet innehöll två laserkanoner och två jonkanoner. Till skillnad från laserkanoner avfyrar skeppets jonkanoner plasmautbrott som orsakar tillfälliga elektriska störningar till deras mål vid kollision."
+  },
+  "title": {
+    "1": "3P0",
+    "10": "R3-serien Droid",
+    "11": "T-70 X-Wing",
+    "12": "Y-Wing fighter",
+    "13": "Super Taktisk Droid",
+    "2": "DUM-serien Droid",
+    "3": "2-1B kirurgisk Droid",
+    "4": "IG-88B Droid",
+    "5": "Sphyrna Corvette",
+    "6": "G2 Repair Droid",
+    "7": "CR90 Corvette",
+    "8": "74-Z Speeder Cykel",
+    "9": "ETA-2 Interceptor"
+  }
+}
